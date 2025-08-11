@@ -110,8 +110,8 @@ const developer = {
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical)](https://github.com/coding-mrinal/AI_Chat_Assistant)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
 
