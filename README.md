@@ -14,33 +14,32 @@
 ### 🧙‍♂️ About Me: The Code Architect
 
 
-const developer = {
-    name: "Your Name",
-    location: "🌍 Earth, Milky Way Galaxy",
-    current_focus: "Building things that matter",
-    fun_fact: "I debug with console.log and I'm proud of it! 😄",
-    code: {
-        frontend: ["React", "Vue", "TypeScript", "Tailwind"],
-        backend: ["Node.js", "Python", "Go", "PostgreSQL"],
-        tools: ["Docker", "K8s", "AWS", "Git"],
-        architecture: ["Microservices", "Event-Driven", "DDD"]
-    },
-    current_learning: ["Rust", "Web3", "Machine Learning"],
-    ask_me_about: ["Web Dev", "Tech", "Coffee", "Space 🚀"],
-    daily_routine: [
-        "☕ Coffee",
-        "💻 Code", 
-        "🐛 Debug",
-        "🔁 Repeat"
-    ]
-};
+> developer.display()
 
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Name:          Your Name                                  │
+│   Location:      🌍 Earth, Milky Way Galaxy                 │
+│   Current Focus: Building things that matter                │
+│   Fun Fact:      I debug with console.log and I'm proud!😄  │
+│                                                             │
+│   Tech Stack:                                               │
+│   ├── Frontend:  React, Bootstrap, TypeScript, Tailwind           │
+│   ├── Backend:   Node.js, Python, Go, PostgreSQL            │
+│   ├── Tools:     Docker, K8s, AWS, Git                      │
+│   └── Architecture: Microservices, Event-Driven, DDD        │
+│                                                             │
+│   Learning:      Web3, Machine Learning                     │
+│   Ask Me About:  Web Dev, Tech, Coffee, Space 🚀            │
+│   Daily Routine: ☕ Coffee → 💻 Code → 🐛 Debug → 🔁 Repeat │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 
 ### 🎯 Current Quest
 
 - 🔭 Working on: **Ecom Website**
-- 🌱 Learning: **Backend Development**
+- 🌱 Learning: **Backend Development & Machine Learning**
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Anything tech-related! Or Genuine Talks**
 - ⚡ Fun fact: **I've consumed enough caffeine to power a small city**
