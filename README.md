@@ -15,25 +15,10 @@
 
 <pre>
 
-{
-  "developer": {
-    "name": "Mrinal Mahapatra",
-    "location": "Kolkata, India",
-    "currentFocus": "Building things that matter",
-    "funFact": "I debug with console.log and I'm proud of it! 😄",
-    
-    "techStack": {
-      "frontend": ["React", "BootStrap", "TypeScript", "Tailwind"],
-      "backend": ["Node.js", "Python", "Go", "PostgreSQL"],
-      "tools": ["VS Code", "Google Colab", "IntelliJ Idea", "Git", "Vercel"],
-      "architecture": ["Microservices", "Event-Driven", "DDD"]
-    },
-    
-    "currentlyLearning": ["Backend Development", "Machine Learning"],
-    "askMeAbout": ["Web Dev", "Tech", "Coffee", "Space 🚀"],
-    "dailyRoutine": ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"]
-  }
-}
+Crafting ideas into things that (occasionally) even surprise their creator.
+Fueled by coffee, curiosity, and the occasional stubborn bug that refuses to leave quietly.
+Currently exploring smart systems and teachable machines, with trusty console.log always riding shotgun.
+  
 </pre>
 
 ### 🎯 Current Quest
@@ -87,7 +72,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coding-mrinal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -96,11 +80,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coding-mrinal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 
 
@@ -135,6 +114,3 @@
 
 
 
-<div align="center">
-  <b>⭐ From coding-mrinal with 💙</b>
-</div>
