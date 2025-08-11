@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+M.R.I.N.A.L;Welcome+to+my+Digital+Workshop!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+M.R.I.N.A.L;Welcome+to+my+Digital+World!&center=true&size=25">
 </h1>
 
 
@@ -13,32 +13,32 @@
 
 ### 🧙‍♂️ About Me: The Code Architect
 
+<pre>
 
-> developer.display()
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Name:          Your Name                                  │
-│   Location:      🌍 Earth, Milky Way Galaxy                 │
-│   Current Focus: Building things that matter                │
-│   Fun Fact:      I debug with console.log and I'm proud!😄  │
-│                                                             │
-│   Tech Stack:                                               │
-│   ├── Frontend:  React, Bootstrap, TypeScript, Tailwind           │
-│   ├── Backend:   Node.js, Python, Go, PostgreSQL            │
-│   ├── Tools:     Docker, K8s, AWS, Git                      │
-│   └── Architecture: Microservices, Event-Driven, DDD        │
-│                                                             │
-│   Learning:      Web3, Machine Learning                     │
-│   Ask Me About:  Web Dev, Tech, Coffee, Space 🚀            │
-│   Daily Routine: ☕ Coffee → 💻 Code → 🐛 Debug → 🔁 Repeat │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
+{
+  "developer": {
+    "name": "Mrinal Mahapatra",
+    "location": "Kolkata, India",
+    "currentFocus": "Building things that matter",
+    "funFact": "I debug with console.log and I'm proud of it! 😄",
+    
+    "techStack": {
+      "frontend": ["React", "BootStrap", "TypeScript", "Tailwind"],
+      "backend": ["Node.js", "Python", "Go", "PostgreSQL"],
+      "tools": ["VS Code", "Google Colab", "IntelliJ Idea", "Git", "Vercel"],
+      "architecture": ["Microservices", "Event-Driven", "DDD"]
+    },
+    
+    "currentlyLearning": ["Backend Development", "Machine Learning"],
+    "askMeAbout": ["Web Dev", "Tech", "Coffee", "Space 🚀"],
+    "dailyRoutine": ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"]
+  }
+}
+</pre>
 
 ### 🎯 Current Quest
 
-- 🔭 Working on: **Ecom Website**
+- 🔭 Working on: **Something That Matters**
 - 🌱 Learning: **Backend Development & Machine Learning**
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Anything tech-related! Or Genuine Talks**
@@ -128,7 +128,6 @@
 
 
 
-### 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
