@@ -15,7 +15,9 @@
 
 
 Crafting ideas into things that (occasionally) even surprise their creator.
+
 Fueled by coffee, curiosity, and the occasional stubborn bug that refuses to leave quietly.
+
 Currently exploring smart systems and teachable machines, with trusty console.log always riding shotgun.
   
 
