@@ -103,13 +103,6 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=coding-mrinal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coding-mrinal&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
 
 
 
@@ -117,8 +110,8 @@ const developer = {
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1&theme=radical)](https://github.com/YOUR-USERNAME/PROJECT-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2&theme=radical)](https://github.com/YOUR-USERNAME/PROJECT-2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
 
