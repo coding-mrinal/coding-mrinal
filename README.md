@@ -4,11 +4,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coding-mrinal&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/coding-mrinal?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
