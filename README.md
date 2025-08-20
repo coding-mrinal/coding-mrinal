@@ -17,11 +17,11 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 ### 🎯 Current Quest
 
-- 🔭 Working on: **Something That Matters**
-- 🌱 Learning: **Backend Development & Machine Learning**
-- 👯 Looking to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Anything tech-related Or Genuine Talks**
-- ⚡ Fun fact: **I've consumed enough caffeine to power a small city**
+-  Working on: **Something That Matters**
+-  Learning: **Backend Development & Machine Learning**
+-  Looking to collaborate on: **Open Source Projects**
+-  Ask me about: **Anything tech-related Or Genuine Talks**
+-  Fun fact: **I've consumed enough caffeine to power a small city**
 
 
 
