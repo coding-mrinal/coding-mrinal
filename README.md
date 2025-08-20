@@ -31,8 +31,9 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" />
 </p>
+
 
 #### Frontend
 <p align="center">
