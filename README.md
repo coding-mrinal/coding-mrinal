@@ -11,12 +11,7 @@
 
 ### 🧙‍♂️ About Me: The Code Architect
 
-
-Crafting ideas into things that (occasionally) even surprise their creator.
-
-Fueled by coffee, curiosity, and the occasional stubborn bug that refuses to leave quietly.
-
-Currently exploring smart systems and teachable machines, with trusty console.log always riding shotgun.
+I’m a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building — with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
   
 
 
