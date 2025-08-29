@@ -58,23 +58,27 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </div>
 
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coding-mrinal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-mrinal&theme=radical" alt="GitHub Streak" />
-</div>
-
-
 ### 💼 Featured Projects
 
 <div align="center">
   
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
+
+</div>
+
+
+
+
+<div align="center">
+
+## When I'm Not Coding
+
+-  Gaming
+-  Reading tech blogs and sci-fi novels
+-  Listening to Lo-fi while debugging
+-  Running to clear my mind
+-  Exploring new coffee shops
 
 </div>
 
