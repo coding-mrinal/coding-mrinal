@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+M.R.I.N.A.L;Welcome+to+my+Digital+World!&center=true&size=23">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+M.R.I.N.A.L;Welcome+to+my+Digital+World!&center=true&size=23">
 </h1>
 
 
