@@ -57,6 +57,11 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 </div>
 
+### 📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical" />
+</div>
+
 
 ### 💼 Featured Projects
 
