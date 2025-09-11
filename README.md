@@ -59,7 +59,7 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 ### 📊 Most Used Languages
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 
