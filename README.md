@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+M.R.I.N.A.L;Welcome+to+my+Digital+World!&center=true&size=23">
 </h1>
 
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -12,16 +10,6 @@
 ### 🧙‍♂️ About Me: The Code Architect
 
 I’m a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
-  
-
-
-### 🎯 Current Quest
-
--  Working on: **Something That Matters**
--  Learning: **Backend Development & Machine Learning**
--  Looking to collaborate on: **Open Source Projects**
--  Ask me about: **Anything tech-related Or Genuine Talks**
--  Fun fact: **I've consumed enough caffeine to power a small city**
 
 
 
@@ -62,7 +50,6 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
-
 ### 💼 Featured Projects
 
 <div align="center">
@@ -71,22 +58,6 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
-
-
-
-
-<div align="center">
-
-## When I'm Not Coding
-
--  Gaming
--  Reading tech blogs and sci-fi novels
--  Listening to Lo-fi while debugging
--  Running to clear my mind
--  Exploring new coffee shops
-
-</div>
-
 
 ### 🤝 Let's Connect!
 
@@ -98,11 +69,6 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:mrinalmahapatra2004@gmail.com)
 
 </div>
-
-
-
-
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
