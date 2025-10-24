@@ -7,11 +7,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
+  
 ### 🧙‍♂️ About Me: The Code Architect
 
 I’m a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
 
-
+</div>
 
 
 
@@ -21,6 +23,8 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 <h3 align="center">🛠️ Tech Arsenal</h3>
 
+<div align="center">
+  
 #### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" />
@@ -46,16 +50,18 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
   <img src="https://skillicons.dev/icons?i=vscode,idea,notion,vercel,git,github&theme=light" />
 </p>
 
+</div>
+
 </td>
 <td width="50%" valign="top">
 
 <h3 align="center">📊 Most Used Languages</h3>
-<div>
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <h3 align="center">💼 Featured Projects</h3>
-<div>
+<div align="center">
   
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
 
