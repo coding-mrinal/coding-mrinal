@@ -9,7 +9,7 @@
 
 <div align="center">
   
-### 🧙‍♂️ About Me: The Code Architect
+###  About Me: The Code Architect
 
 I’m a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
 
@@ -21,7 +21,7 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
+<h3 align="center"> Tech Arsenal</h3>
 
 <div align="center">
   
@@ -53,15 +53,15 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center" >
 
-<h3 align="center">📊 Most Used Languages</h3>
-<div align="center">
+<h3> Most Used Languages</h3>
+<div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
-<h3 align="center">💼 Featured Projects</h3>
-<div align="center">
+<h3> Featured Projects</h3>
+<div>
   
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
 
@@ -74,7 +74,7 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </table>
 
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<h3 align="center"> Let's Connect!</h3>
 
 
 <div align="center">
