@@ -13,15 +13,17 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 
 
+
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### 🛠️ Tech Arsenal
-
-<div>
-
 #### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" />
 </p>
-
 
 #### Frontend
 <p>
@@ -43,7 +45,8 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
   <img src="https://skillicons.dev/icons?i=vscode,idea,notion,vercel,git,github&theme=light" />
 </p>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Most Used Languages
 <div>
@@ -51,13 +54,20 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </div>
 
 ### 💼 Featured Projects
-
 <div>
   
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
+
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ### 🤝 Let's Connect!
 
