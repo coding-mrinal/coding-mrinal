@@ -4,15 +4,19 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="center">
+<table width="100%">
+<tr>
+<td width="30%" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="200"/>
+</td>
+<td width="70%" align="center">
   
-###  About Me: The Code Architect
+### 🏛️ About Me: The Code Architect
+I'm a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
 
-I’m a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
-
+</td>
+</tr>
+</table>
 </div>
 
 
