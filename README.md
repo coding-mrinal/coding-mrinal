@@ -19,7 +19,8 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Tech Arsenal
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
 #### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" />
@@ -48,12 +49,12 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </td>
 <td width="50%" valign="top">
 
-### 📊 Most Used Languages
+<h3 align="center">📊 Most Used Languages</h3>
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
-### 💼 Featured Projects
+<h3 align="center">💼 Featured Projects</h3>
 <div>
   
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
@@ -67,11 +68,10 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 </table>
 
 
+<h3 align="center">🤝 Let's Connect!</h3>
 
 
-### 🤝 Let's Connect!
-
-<div>
+<div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/mrinal-mahapatra)&nbsp;&nbsp;
 [![Portfolio](https://skillicons.dev/icons?i=vercel&theme=light)](https://mri-portfolio.vercel.app)&nbsp;&nbsp;
