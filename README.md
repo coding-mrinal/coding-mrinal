@@ -17,7 +17,7 @@ I’m a developer fueled by coffee, curiosity, and the thrill of solving problem
 
 
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 
