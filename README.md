@@ -20,7 +20,7 @@ I'm a developer fueled by coffee, curiosity, and the thrill of solving problems.
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
