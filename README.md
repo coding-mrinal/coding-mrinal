@@ -6,13 +6,11 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
 </td>
 <td width="70%" align="center">
-  
-### 🏛️ About Me: The Code Architect
-I'm a developer fueled by coffee, curiosity, and the thrill of solving problems. From clean, efficient code to algorithms that shape smarter systems, I love turning ideas into creations that sometimes even surprise me. Always learning, always building with a stubborn bug or two (and trusty console.log) keeping the journey interesting.
-
+<h3>🏛️ About Me: The Code Architect</h3>
+Developer fueled by coffee, curiosity, and problem-solving. From clean code to smart algorithms, I turn ideas into creations. Always learning, always building with trusty console.log keeping things interesting.
 </td>
 </tr>
 </table>
