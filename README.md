@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
 </td>
 <td width="70%" align="center">
-<h3>🏛️ About Me: The Code Architect</h3>
+<h3> About Me: The Code Architect</h3>
 Developer fueled by coffee, curiosity, and problem-solving. From clean code to smart algorithms, I turn ideas into creations. Always learning, always building with trusty console.log keeping things interesting.
 </td>
 </tr>
@@ -22,7 +22,7 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
+<h3 align="center"> Tech Arsenal</h3>
 
 <div align="center">
 
@@ -46,13 +46,13 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Most Used Languages</h3>
+<h3 align="center"> Most Used Languages</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
 </div>
 
-<h3 align="center">💼 Featured Projects</h3>
+<h3 align="center"> Featured Projects</h3>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 
 ---
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<h3 align="center"> Let's Connect!</h3>
 
 <div align="center">
 
