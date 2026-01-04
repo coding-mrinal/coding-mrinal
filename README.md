@@ -12,7 +12,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Tech Arsenal</h3>
+<h3 align="center"> Tech Vault</h3>
 
 <div align="center">
 
