@@ -27,7 +27,7 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 <div align="center">
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=light" />
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,nextjs&theme=light" />
