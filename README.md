@@ -27,19 +27,19 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 <div align="center">
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,nextjs&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs&theme=dark" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 #### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 #### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,idea,notion,vercel,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,notion,vercel,git,github&theme=dark" />
 
 </div>
 
