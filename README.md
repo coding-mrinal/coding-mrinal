@@ -49,16 +49,16 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 <h3 align="center"> Most Used Languages</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <h3 align="center"> Featured Projects</h3>
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=SanShop_Best_Ecom_Website&theme=radical&show_owner=true)](https://github.com/coding-mrinal/SanShop_Best_Ecom_Website)
+[![Project 1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=taste_avenue&theme=radical&show_owner=true)](https://github.com/coding-mrinal/taste_avenue)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
+[![Project 2](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
 
