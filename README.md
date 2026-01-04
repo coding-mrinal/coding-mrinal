@@ -3,17 +3,7 @@
 </h1>
 
 <div align="center">
-<table>
-<tr>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
-</td>
-<td width="70%" align="center">
-<h3> About Me: The Code Architect</h3>
-Developer fueled by coffee, curiosity, and problem-solving. From clean code to smart algorithms, I turn ideas into creations. Always learning, always building with trusty console.log keeping things interesting.
-</td>
-</tr>
-</table>
+  <h3> Turning caffeine and curiosity into high-performance web applications. </h3>
 </div>
 
 ---
