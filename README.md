@@ -49,16 +49,14 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 <h3 align="center"> Most Used Languages</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=cobalt&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </div>
-
 <h3 align="center"> Featured Projects</h3>
 
 <div align="center">
-
-[![Project 1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=taste_avenue&theme=radical&show_owner=true)](https://github.com/coding-mrinal/taste_avenue)
-
-[![Project 2](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=radical&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
+  
+[![Project 1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=taste_avenue&theme=cobalt&show_owner=true)](https://github.com/coding-mrinal/taste_avenue)
+[![Project 2](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=coding-mrinal&repo=AI_Chat_Assistant&theme=cobalt&show_owner=true)](https://github.com/coding-mrinal/AI_Chat_Assistant)
 
 </div>
 
@@ -77,8 +75,4 @@ Developer fueled by coffee, curiosity, and problem-solving. From clean code to s
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/coding-mrinal/)
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:mrinalmahapatra2004@gmail.com)
 
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
