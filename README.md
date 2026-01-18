@@ -6,7 +6,7 @@
   <h3> Turning caffeine and curiosity into high-performance web applications. </h3>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 
 <table align="center">
 <tr>
@@ -54,7 +54,7 @@
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 
 <h3 align="center"> Let's Connect!</h3>
 
