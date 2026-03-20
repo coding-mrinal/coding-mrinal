@@ -11,23 +11,17 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-**GitHub Stats**
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coding-mrinal&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=380&bg_color=282a36&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&ring_color=ff79c6&border_radius=14" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-**Streak Stats**
-
-<img src="https://streak-stats.demolab.com/?user=coding-mrinal&theme=dracula-theme&hide_border=true&card_width=380&background=282a36&ring=ff79c6&fire=ffb86c&currStreakLabel=8be9fd&sideLabels=bd93f9&dates=6272a4&stroke=44475a&border_radius=14" />
+<img src="https://streak-stats.demolab.com/?user=coding-mrinal&hide_border=true&card_width=380&background=282a36&ring=ff79c6&fire=ffb86c&currStreakNum=f8f8f2&currStreakLabel=8be9fd&sideNums=f8f8f2&sideLabels=bd93f9&dates=f8f8f2&stroke=44475a&border_radius=14" />
 
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-
-**Status**
 
 <img src="https://img.shields.io/badge/Software%20Dev-ff79c6?style=flat-square&labelColor=282a36&logo=code&logoColor=ff79c6" />
 &nbsp;
@@ -35,8 +29,6 @@
 
 </td>
 <td align="center" valign="top">
-
-**Info**
 
 <img src="https://img.shields.io/badge/Kolkata%2C%20India-ffb86c?style=flat-square&labelColor=282a36&logo=googlemaps&logoColor=ffb86c" />
 &nbsp;
@@ -56,8 +48,6 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center"> Tech Vault</h3>
 
 <table align="center">
   <tr>
@@ -106,8 +96,6 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"> Most Used Languages</h3>
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&card_width=340&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&border_radius=14" />
 </div>
@@ -122,26 +110,24 @@
 
 <br/>
 
-
 <!-- CONNECT SECTION -->
-<h3 align="center"> Let's Connect!</h3>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mrinal-mahapatra">
-    <img src="https://img.shields.io/badge/LinkedIn-8be9fd?style=for-the-badge&logo=linkedin&logoColor=282a36&labelColor=282a36" />
+  <a href="https://www.linkedin.com/in/mrinal-mahapatra" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://mri-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-bd93f9?style=for-the-badge&logo=vercel&logoColor=282a36&labelColor=282a36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mri-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio" title="Portfolio" />
   </a>
-  &nbsp;
-  <a href="https://github.com/coding-mrinal">
-    <img src="https://img.shields.io/badge/GitHub-f8f8f2?style=for-the-badge&logo=github&logoColor=282a36&labelColor=282a36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/coding-mrinal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
   </a>
-  &nbsp;
-  <a href="mailto:mrinalmahapatra2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=282a36&labelColor=282a36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mrinalmahapatra2004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" title="Gmail" />
   </a>
 
 </div>
