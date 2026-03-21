@@ -6,48 +6,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,40:44475a,70:ff79c6,100:8be9fd&height=120&section=header&text=&animation=fadeIn" width="100%" />
 </div>
 
-<!-- HERO STATS + STATUS BADGES — two-column table -->
+<br/>
+
 <table align="center" width="100%">
 <tr>
+
+<!-- LEFT COLUMN: GitHub Stats + Status Badges + Tech Vault -->
 <td width="50%" align="center" valign="top">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coding-mrinal&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=380&bg_color=282a36&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&ring_color=ff79c6&border_radius=14" />
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://streak-stats.demolab.com/?user=coding-mrinal&hide_border=true&card_width=380&background=282a36&ring=ff79c6&fire=ffb86c&currStreakNum=f8f8f2&currStreakLabel=8be9fd&sideNums=f8f8f2&sideLabels=bd93f9&dates=f8f8f2&stroke=44475a&border_radius=14" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Software%20Dev-ff79c6?style=flat-square&labelColor=282a36&logo=code&logoColor=ff79c6" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-50fa7b?style=flat-square&labelColor=282a36&logo=briefcase&logoColor=50fa7b" />
 
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/badge/Kolkata%2C%20India-ffb86c?style=flat-square&labelColor=282a36&logo=googlemaps&logoColor=ffb86c" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=coding-mrinal&style=flat-square&color=ff79c6&label=Profile+Views&labelColor=282a36" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff79c6,50:8be9fd,100:ff79c6&height=2" width="100%" />
-
-<br/>
-
-<!-- TECH VAULT + LANGUAGE STATS -->
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
 <table align="center">
   <tr>
@@ -94,13 +69,24 @@
 </table>
 
 </td>
-<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&card_width=340&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&border_radius=14" />
-</div>
+<!-- RIGHT COLUMN: Streak Stats + Location Badge + Top Languages -->
+<td width="50%" align="center" valign="top">
+
+<img src="https://streak-stats.demolab.com/?user=coding-mrinal&hide_border=true&card_width=380&background=282a36&ring=ff79c6&fire=ffb86c&currStreakNum=f8f8f2&currStreakLabel=8be9fd&sideNums=f8f8f2&sideLabels=bd93f9&dates=f8f8f2&stroke=44475a&border_radius=14" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kolkata%2C%20India-ffb86c?style=flat-square&labelColor=282a36&logo=googlemaps&logoColor=ffb86c" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=coding-mrinal&style=flat-square&color=ff79c6&label=Profile+Views&labelColor=282a36" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coding-mrinal&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&card_width=340&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&border_radius=14" />
 
 </td>
+
 </tr>
 </table>
 
