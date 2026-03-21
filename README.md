@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Mrinal;Software+Developer;Welcome+To+My+Profile!&center=true&size=24&width=600&color=ff79c6&background=28293600&vCenter=true&pause=1000&font=Fira+Code" />
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,40:44475a,70:ff79c6,100:8be9fd&height=120&section=header&text=&animation=fadeIn" width="100%" />
-</div>
+</div> -->
 
 <br/>
 
@@ -121,6 +121,6 @@
 <br/>
 
 <!-- FOOTER WAVE -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,40:ff79c6,100:282a36&height=100&section=footer" width="100%" />
-</div>
+</div> -->
