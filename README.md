@@ -98,7 +98,7 @@
 
 <!-- CONNECT SECTION -->
 
-<div align="center">
+<!-- <div align="center">
 
   <a href="https://www.linkedin.com/in/mrinal-mahapatra" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
@@ -116,9 +116,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
 
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- FOOTER WAVE -->
 <!-- <div align="center">
