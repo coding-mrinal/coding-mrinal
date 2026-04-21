@@ -101,19 +101,19 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/mrinal-mahapatra" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://mri-portfolio.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio" title="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/coding-mrinal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mrinalmahapatra2004@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" title="Gmail" />
+
+  <a href="mailto:mrinalmahapatra2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
 
 </div>
