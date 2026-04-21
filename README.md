@@ -90,11 +90,11 @@
 </tr>
 </table>
 
-<br/>
+<!-- <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff79c6,50:8be9fd,100:ff79c6&height=2" width="100%" />
 
-<br/>
+<br/> -->
 
 <!-- CONNECT SECTION -->
 
