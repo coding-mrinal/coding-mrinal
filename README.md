@@ -16,11 +16,11 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coding-mrinal&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=380&bg_color=282a36&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&ring_color=ff79c6&border_radius=14" />
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://img.shields.io/badge/Software%20Dev-ff79c6?style=flat-square&labelColor=282a36&logo=code&logoColor=ff79c6" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-50fa7b?style=flat-square&labelColor=282a36&logo=briefcase&logoColor=50fa7b" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-50fa7b?style=flat-square&labelColor=282a36&logo=briefcase&logoColor=50fa7b" /> -->
 
 <br/><br/>
 
@@ -75,11 +75,11 @@
 
 <img src="https://streak-stats.demolab.com/?user=coding-mrinal&hide_border=true&card_width=380&background=282a36&ring=ff79c6&fire=ffb86c&currStreakNum=f8f8f2&currStreakLabel=8be9fd&sideNums=f8f8f2&sideLabels=bd93f9&dates=f8f8f2&stroke=44475a&border_radius=14" />
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://img.shields.io/badge/Kolkata%2C%20India-ffb86c?style=flat-square&labelColor=282a36&logo=googlemaps&logoColor=ffb86c" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=coding-mrinal&style=flat-square&color=ff79c6&label=Profile+Views&labelColor=282a36" />
+<img src="https://komarev.com/ghpvc/?username=coding-mrinal&style=flat-square&color=ff79c6&label=Profile+Views&labelColor=282a36" /> -->
 
 <br/><br/>
 
